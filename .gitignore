@@ -1,0 +1,9 @@
+*.bak
+*-backups/
+_autosave-*
+fp-info-cache
+*.000
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.lck
+gejipad_8s4re.kicad_prl
