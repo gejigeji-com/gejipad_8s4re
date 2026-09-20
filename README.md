@@ -39,8 +39,8 @@ gejipad_8s4re/
 
 ## 組み立て
 
-1. 部品は `production/gejipad_8s4re-BOM.csv` を参照
-2. 組み立て方法は `docs/assembly.md` を参照
+1. 部品は [`production/gejipad_8s4re-BOM.csv`](production/gejipad_8s4re-BOM.csv) を参照
+2. 組み立て方法は [`docs/assembly.md`](docs/assembly.md) を参照
 
 ## ファームウェアについて
 
