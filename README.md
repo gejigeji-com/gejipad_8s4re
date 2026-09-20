@@ -35,8 +35,12 @@ gejipad_8s4re/
 
 ## 基板の発注方法
 
-1. `production/gerbers/` 内のガーバーデータをPCB製造業者(JLCPCBなど)にアップロード
-2. 部品は `production/gejipad_8s4re-BOM.csv` を参照
+`production/gerbers/` 内のガーバーデータをPCB製造業者(JLCPCBなど)にアップロード
+
+## 組み立て
+
+1. 部品は `production/gejipad_8s4re-BOM.csv` を参照
+2. 組み立て方法は `docs/assembly.md` を参照
 
 ## ファームウェアについて
 
